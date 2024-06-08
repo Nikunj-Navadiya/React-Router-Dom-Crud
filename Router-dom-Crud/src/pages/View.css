@@ -1,0 +1,11 @@
+.container {
+    padding-top: 10px;
+}
+body{
+        background-image: url('https://free-3dtextureshd.com/wallpapers/Abstract/Desktop%20version/1920%20x%201080/74_Abstract_Background_1920x1080px.jpg');
+        background-size: cover;
+        background-position: center;
+        width: 100%;
+        background-blend-mode: darken;
+        background-color: rgba(192, 176, 176, 0.65);
+}
